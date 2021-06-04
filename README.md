@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MASON-SEA
+- 👀 I’m interested in javascript
+- 🌱 I’m currently learning react
